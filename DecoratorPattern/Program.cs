@@ -1,5 +1,4 @@
-﻿using System;
-using DecoratorPatternApp.Components;
+﻿using DecoratorPatternApp.Components;
 using DecoratorPatternApp.Decorators;
 
 namespace DecoratorPatternApp
